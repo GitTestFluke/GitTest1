@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+// Change Change Change
 #define sharedAppDelegate ((ElektraAppDelegate *)[[UIApplication sharedApplication] delegate])
 
 extern NSString *ELEShareLiveEnabledKey;
