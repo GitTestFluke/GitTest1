@@ -31,4 +31,6 @@ typedef NS_ENUM(NSInteger, ELEModeViewControllerMode) {
 
 - (void) switchToMode:(ELEModeViewControllerMode) mode animated:(BOOL) animated completion:(void (^)(void))completion;
 - (UINavigationController*) navigationViewControllerForMode:(ELEModeViewControllerMode) mode;
+
+//test file : suchitra
 @end
